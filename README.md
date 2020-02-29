@@ -14,3 +14,4 @@
 - Image 10: https://drive.google.com/file/d/1ssLOXW0daBB3wZz9comzJMOo_urR2jwV/view
 
 ### Dmcar Improvement Suggestions:
+- Improve the quality of materials and provide a cover for the car.
